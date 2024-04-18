@@ -11,4 +11,4 @@ A simple python converter that uses ffmpeg to convert mp4 to m3u8
 python run.py input-filename.mp4
 ```
 
-### And a folder will me created we all the output files in
+### And a folder will me created with all the output files in
