@@ -11,7 +11,7 @@ You will also to install tqdm
 pip install tqdm
 ```
 
-### Once you have done that you can run
+Once you have done that you can run it using
 
 ```
 python run.py input-filename.mp4
