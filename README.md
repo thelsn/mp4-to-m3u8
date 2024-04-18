@@ -3,7 +3,13 @@ A simple python converter that uses ffmpeg to convert mp4 to m3u8
 
 ## Usage
 
-### You will need to install ffmpeg from <a href="https://ffmpeg.org/download.html" >ffmpeg.org/download.html</a>
+You will need to install ffmpeg from <a href="https://ffmpeg.org/download.html" >ffmpeg.org/download.html</a>
+
+You will also to install tqdm
+
+```
+pip install tqdm
+```
 
 ### Once you have done that you can run
 
@@ -11,4 +17,4 @@ A simple python converter that uses ffmpeg to convert mp4 to m3u8
 python run.py input-filename.mp4
 ```
 
-### And a folder will me created with all the output files in
+A folder will me created with all the output files in
