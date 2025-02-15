@@ -14,14 +14,14 @@ python run.py input-filename.mp4
 ### Windows Batch Script
 
 ```
-convert.bat input-filename.mp4
+run.bat input-filename.mp4
 ```
 
 ### Bash Script
 
 ```
-chmod +x convert.sh
-./convert.sh input-filename.mp4
+chmod +x run.sh
+./run.sh input-filename.mp4
 ```
 
 A folder will be created with all the output files in it.
